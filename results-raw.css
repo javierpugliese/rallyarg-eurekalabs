@@ -1,0 +1,16 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  min-height: 100vh;
+  line-height: 1.5;
+  margin: 0;
+  font: 400 16px/1.2 Roboto Bold, Trebuchet MS, Helvetica, Arial, sans-serif;
+  background-color: #232327;
+  color: #f3f4f5;
+}
